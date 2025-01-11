@@ -1,7 +1,4 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-
-using OpenQA.Selenium.Chrome;
+﻿using OpenQA.Selenium.Chrome;
 
 var host = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>
