@@ -18,8 +18,4 @@ A script to fetch user's saved posts from Instagram. I still haven't decided wha
   $ git clone https://github.com/guisaliba/insta-saved.git
   ```
 
-## License
-
-MIT
-
 </samp>
